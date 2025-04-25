@@ -14,17 +14,17 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopolezi&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jopolezi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
 <div style="margin-top: 20px;">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=seu-username&theme=tokyonight" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jopolezi&theme=tokyonight" alt="Contribution Graph" />
   </a>
 </div>
 
