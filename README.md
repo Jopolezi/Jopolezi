@@ -6,7 +6,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="SC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg">
+  <img align="center" alt="SC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styled-components/styled-components-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
@@ -14,11 +14,11 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 10px; width: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopolezi&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopolezi&layout=compact&langs_count=7&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jopolezi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jopolezi&show_icons=true&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
