@@ -14,11 +14,11 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 10px; width: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="height: 180em; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopolezi&layout=compact&langs_count=7&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopolezi&layout=compact&langs_count=7&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="height: 180em; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Jopolezi&show_icons=true&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jopolezi&show_icons=true&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
