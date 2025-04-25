@@ -1,11 +1,9 @@
 - 👨‍💻 I'm currently studying analyst and system development in Fatec Taquaritinga.
 - 🎓 I have a technical high school certificate in systems development from Etec de Ibitinga.
   
-<hr style="height: 3px;">
-
 <div style="display: flex; flex-direction: column; margin-top: 30px;">
 <label>My actual languages</label>
-  <div style="display: inline-block;">
+  <div style="display: inline-block; margin-top: 5px;">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,6 +11,8 @@
     <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>
 </div>
+
+<hr style="height: 3px;">
 
 <!-- Stats and Graphics -->
 <div style="display: flex; justify-content: space-between; margin-top: 30px; width: 100%;">
