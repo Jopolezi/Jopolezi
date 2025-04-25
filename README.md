@@ -2,7 +2,6 @@
 - 🎓 I have a technical high school certificate in systems development from Etec de Ibitinga.
   
 <div style="display: flex; flex-direction: column; margin-top: 30px;">
-<label>My actual languages</label>
   <div style="display: inline-block; margin-top: 5px;">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,9 +11,9 @@
   </div>
 </div>
 
-<hr style="height: 3px;">
+***
 
-<!-- Stats and Graphics -->
+### Stats and Graphics
 <div style="display: flex; justify-content: space-between; margin-top: 30px; width: 100%;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopolezi&layout=compact&langs_count=7&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"/>
@@ -30,7 +29,7 @@
 </a>
 </div>
 
-<hr style="height: 3px;">
+***
 
 ### Contact
 <div> 
