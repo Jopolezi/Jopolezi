@@ -24,7 +24,7 @@
 
 <div style="margin-top: 20px;">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jopolezi&theme=tokyonight" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jopolezi&theme=react-dark" alt="Contribution Graph" />
   </a>
 </div>
 
