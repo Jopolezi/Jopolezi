@@ -1,7 +1,8 @@
+Hello, my name is João Polezi and I will tell you a little about myself. 
+
 - 👨‍💻 I'm currently studying analyst and system development in Fatec Taquaritinga.
 - 🎓 I have a technical high school certificate in systems development from Etec de Ibitinga.
-
-- Front-end developer focused on creating responsive and accessible web experiences. Passionate about UI/UX and JavaScript frameworks. I started my journey into code in 2022.
+- 📈 Front-end developer focused on creating responsive and accessible web experiences. Passionate about UI/UX and JavaScript frameworks. I started my journey into code in 2022.
   
 <div style="display: flex; flex-direction: column; margin-top: 30px;">
   <div style="display: inline-block; margin-top: 5px;">
