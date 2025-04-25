@@ -4,7 +4,6 @@
 <hr>
 
 <div style="display: inline_block; margin-top: 30px;">
-  <labeL>My languages</labeL>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,15 +12,13 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-<hr>
-
 <div style="display: flex; justify-content: space-between; margin-top: 10px; width: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopolezi&layout=compact&langs_count=7&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopolezi&layout=compact&langs_count=7&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Jopolezi&show_icons=true&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Jopolezi&show_icons=true&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
