@@ -3,16 +3,20 @@ Hello, my name is João Polezi and I will tell you a little about myself.
 - 👨‍💻 I'm currently studying analyst and system development in Fatec Taquaritinga.
 - 🎓 I have a technical high school certificate in systems development from Etec de Ibitinga.
 - 📈 Front-end developer focused on creating responsive and accessible web experiences. Passionate about UI/UX and JavaScript frameworks. I started my journey into code in 2022.
+
+<div style="display: flex; flex-direction: row; margin-top: 30px;">
+<h1> Frameworks:</h1>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
   
-<div style="display: flex; flex-direction: column; margin-top: 30px;">
-  <div style="display: inline-block; margin-top: 5px;">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div style="display: flex; flex-direction: row; margin-top: 5px;">  
+<h1>Language and Tools:</h1>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  </div>
 </div>
+
 
 ***
 
