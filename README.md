@@ -18,7 +18,7 @@ Hello, my name is João Polezi and I will tell you a little about myself.
     <img align="center" alt="Styled-Components" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
     <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
-    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/postgresql">
+    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
 </div>
 
 
